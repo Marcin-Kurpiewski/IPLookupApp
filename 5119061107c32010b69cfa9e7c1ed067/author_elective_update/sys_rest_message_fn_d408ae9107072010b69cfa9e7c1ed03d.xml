@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>get</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>cOVID19 [ Default GET ]</qualified_name>
+        <rest_endpoint>https://covid-1931.p.rapidapi.com/</rest_endpoint>
+        <rest_message display_value="cOVID19">6de4e25107072010b69cfa9e7c1ed009</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-21 15:55:33</sys_created_on>
+        <sys_id>d408ae9107072010b69cfa9e7c1ed03d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="IPLookup" source="x_394977_iplookup">5119061107c32010b69cfa9e7c1ed067</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">5119061107c32010b69cfa9e7c1ed067</sys_scope>
+        <sys_update_name>sys_rest_message_fn_d408ae9107072010b69cfa9e7c1ed03d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-21 15:55:33</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">5119061107c32010b69cfa9e7c1ed067</application>
+        <file_path/>
+        <instance_id>1948b8c6db5f001852cec597059619b7</instance_id>
+        <instance_name>dev102006</instance_name>
+        <name>sys_rest_message_fn_d408ae9107072010b69cfa9e7c1ed03d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>get</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>cOVID19 [ Default GET ]</qualified_name><rest_endpoint>https://covid-1931.p.rapidapi.com/</rest_endpoint><rest_message display_value="cOVID19">6de4e25107072010b69cfa9e7c1ed009</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-21 15:55:33</sys_created_on><sys_id>d408ae9107072010b69cfa9e7c1ed03d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="IPLookup" source="x_394977_iplookup">5119061107c32010b69cfa9e7c1ed067</sys_package><sys_policy/><sys_scope display_value="IPLookup">5119061107c32010b69cfa9e7c1ed067</sys_scope><sys_update_name>sys_rest_message_fn_d408ae9107072010b69cfa9e7c1ed03d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-21 15:55:33</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>1004320525</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>fd84a25107072010b69cfa9e7c1ed0a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-21 15:55:33</sys_created_on>
+        <sys_id>9008ae9107072010b69cfa9e7c1ed03f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178557fa9db0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-21 15:55:33</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>d808ae9111072010a7b256ceb908f43e</update_guid>
+        <update_guid_history>d808ae9111072010a7b256ceb908f43e:1004320525</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-21 16:17:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>1979551f9ba047968abefeda0cd59ae4</sys_id>
+        <sys_metadata>d408ae9107072010b69cfa9e7c1ed03d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="IPLookup" source="x_394977_iplookup">5119061107c32010b69cfa9e7c1ed067</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">5119061107c32010b69cfa9e7c1ed067</sys_scope>
+        <sys_scope_delete display_value="">028342717a6f47c28126582578a82da4</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_d408ae9107072010b69cfa9e7c1ed03d</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_d408ae9107072010b69cfa9e7c1ed03d">9008ae9107072010b69cfa9e7c1ed03f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-21 16:17:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
